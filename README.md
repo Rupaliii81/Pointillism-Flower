@@ -1,8 +1,8 @@
+
 # Pointillism Flower (Sky Blue Edition) 🌸
 
 A generative pointillist art experiment in Python that simulates the complete lifecycle of a blooming flower: sprouting from textured soil, opening in multi-layered sky-blue petals, emitting a glowing aura, and gradually wilting over time.
-
-<img width="1425" height="705" alt="Sky blue pointillism flower" src="flower_blue.png" />
+<img width="1425" height="705" alt="Screenshot 2026-10-16 114447" src="https://github.com/user-attachments/assets/bd7ca5f6-b49e-458a-9a68-56b7b3179e70" />
 
 ## Features
 - **Procedural Pointillism:** Renders soil, stem, leaves, and petals using tens of thousands of dynamic point particles ("splats") rather than solid fills.
